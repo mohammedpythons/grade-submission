@@ -1,4 +1,4 @@
-## In this simple API, I created a system to register student for classes, and let teachers to submit grades for their students' classes only. This API handles all user errors as well as the data integrity errors.
+## In this simple API, I created a system to register students for classes, and let teachers to submit grades for their students' classes only. This API handles all user errors as well as the data integrity errors.
 
 
 ### Signup
